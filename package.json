@@ -1,0 +1,27 @@
+{
+  "name": "pages-blog",
+  "version": "1.0.0",
+  "description": "An auto updating blog creating action for GitHub Pages.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthShyniben/pages-blog.git"
+  },
+  "keywords": [
+    "Blog",
+    "GitHub",
+    "Pages"
+  ],
+  "author": "SiddharthShyniben <siddharth.muscat@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SiddharthShyniben/pages-blog/issues"
+  },
+  "homepage": "https://github.com/SiddharthShyniben/pages-blog#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6"
+  }
+}

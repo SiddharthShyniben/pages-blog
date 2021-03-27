@@ -1,0 +1,10 @@
+name: "Pages Blog"
+author: "SiddharthShyniben"
+description: "An auto updating blog creating action for GitHub Pages."
+# inputs: # Add inputs; See https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions#inputs
+runs:
+  using: "node14"
+  main: "main.js"
+branding: 
+  icon: "edit"
+  color: "orange"
